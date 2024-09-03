@@ -1,0 +1,6 @@
+{
+  "name": "lustre_playground",
+  "dependencies": {
+    "daisyui": "^4.12.10"
+  }
+}

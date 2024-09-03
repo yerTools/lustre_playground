@@ -1,0 +1,9 @@
+*.beam
+*.ez
+/build
+/node_modules
+/priv/compiler
+/priv/static/lustre_playground.css
+/priv/static/lustre_playground.mjs
+/public
+erl_crash.dump
