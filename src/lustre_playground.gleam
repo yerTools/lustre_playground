@@ -36,6 +36,8 @@ fn view(mdl: Model) -> Element(Msg) {
     ),
   ]
 
+  let body = [html.text("Hello World!"), ..body]
+
   html.html([attribute("lang", "en")], [
     html.head([], [
       html.meta([attribute("charset", "UTF-8")]),
